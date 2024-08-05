@@ -1,5 +1,5 @@
-import streamlit as st
-from streamlit_module import process_query  
+import testing.streamlit as st
+from testing.streamlit_module import process_query  
 
 """
 

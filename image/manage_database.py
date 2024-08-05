@@ -22,7 +22,7 @@ if not OPENAI_API_KEY:
     raise ValueError("The OpenAI API key is not set. Check your .env file and environment configuration.")
 
 CHROMA_PATH = "chroma"
-DATA_PATH = "test_data" #"md_data"
+DATA_PATH = "data" 
 
 
 def main():
